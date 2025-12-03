@@ -38,21 +38,22 @@ Industry focus:
 ### 1️⃣ Architecture Blueprints
 High-level conceptual architectures for next-gen operations across CPG, Pharma, Insurance and R&D-scale environments.
 
-👉 Folder: `architecture-blueprints/` *(coming soon)*
+👉 Folder: [architecture-blueprints/](architecture-blueprints/)
 
 ---
 
 ### 2️⃣ Conceptual Frameworks
 Principles, semantic structures and KPI governance models that enable clarity, consistency and decision readiness.
 
-👉 Folder: `conceptual-frameworks/` *(coming soon)*
+👉 Folder: [conceptual-frameworks/](conceptual-frameworks/)
+
 
 ---
 
 ### 3️⃣ Design Patterns
 Operational and analytical patterns focused on stability, productivity, visibility, governance and decision intelligence.
 
-👉 Folder: `design-patterns/` *(coming soon)*
+👉 Folder: [design-patterns/](design-patterns/)
 
 ---
 
