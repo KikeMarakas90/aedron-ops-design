@@ -1,0 +1,52 @@
+# ================================
+# AEDRON Ops Design Lab — .gitignore
+# ================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Linux editors
+*~
+
+# VS Code / JetBrains
+.vscode/
+.idea/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Build / cache files
+.cache/
+tmp/
+temp/
+
+# Node / Jekyll / GitHub Pages
+node_modules/
+.bundle/
+vendor/
+_site/
+.sass-cache/
+
+# Logs
+*.log
+
+# Others
+.env
+*.swp
+*.bak
+*.tmp
