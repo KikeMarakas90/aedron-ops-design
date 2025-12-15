@@ -3,26 +3,35 @@ layout: default
 title: AEDRON Ops Design Lab
 ---
 
-# AEDRON Ops Design Lab  
+# AEDRON Ops Design Lab
 
 **Enterprise Architecture for Next-Gen Operations**  
-**Designing modular, governed and AI-enabled operating architectures for regulated and complex enterprises.**
+**Designing modular, governed, and AI-enabled decision architectures for regulated and complex enterprises.**
 
 ---
 
-## 🔍 What is this lab?
+## Executive Premise
 
-AEDRON Ops Design Lab is a public-facing architecture workspace focused on **conceptual enterprise blueprints** for complex, regulated and multi-domain environments.
+Most enterprises are not struggling due to a lack of data, tools, or talent.  
+They struggle because their **decision architecture** no longer matches the complexity of the environment.
 
-The lab explores how to design:
+This lab exists to design the missing layer: **Operating Systems for execution** — architectures that align signals, metrics, governance, and action across the value stream.
+
+---
+
+## What is this lab?
+
+AEDRON Ops Design Lab is a public-facing architecture workspace publishing **conceptual enterprise blueprints** for complex, regulated, and multi-domain environments.
+
+Focus areas:
 
 - Modular, domain-oriented operating architectures  
-- Semantic and KPI governance layers  
-- AI-enabled decision ecosystems (RAG/LLM-inspired)  
+- Semantic and KPI governance layers (decision-grade metrics)  
+- AI-enabled decision ecosystems (RAG/LLM-inspired augmentation)  
 - Cross-domain interoperability and value steering  
-- Future-ready operating models for global operations  
+- Hybrid execution models for global operations (Cloud + Edge)  
 
-Industry focus:
+Industries in scope:
 
 - CPG  
 - Manufacturing  
@@ -33,55 +42,65 @@ Industry focus:
 
 ---
 
-## 🧩 Core Streams
+## What you can explore here
 
-### 1️⃣ Architecture Blueprints
-High-level conceptual architectures for next-gen operations across CPG, Pharma, Insurance and R&D-scale environments.
+### 1) Architecture Blueprints
+Strategic enterprise architectures engineered for next-generation operations.
 
-👉 Folder: [architecture-blueprints/](architecture-blueprints/)
+👉 [architecture-blueprints/](architecture-blueprints/)
 
----
-
-### 2️⃣ Conceptual Frameworks
-Principles, semantic structures and KPI governance models that enable clarity, consistency and decision readiness.
-
-👉 Folder: [conceptual-frameworks/](conceptual-frameworks/)
-
+**Currently available:**
+- **CPG Global Ops Operating System (v1)** — modular operating architecture for multi-country manufacturing and supply operations  
+- **Insurance Operational Intelligence Stack (v1)** — decision-ready architecture for claims, provider payments, and operational governance  
 
 ---
 
-### 3️⃣ Design Patterns
-Operational and analytical patterns focused on stability, productivity, visibility, governance and decision intelligence.
+### 2) Conceptual Frameworks
+Principles and governance structures that make architectures **operationally reliable** (semantics, KPI integrity, decision flows).
 
-👉 Folder: [design-patterns/](design-patterns/)
-
----
-
-## 🧭 Design Philosophy
-
-Modern enterprises need more than tools and dashboards — they need **operating architectures**:
-
-- **Modular** — built from interoperable capabilities  
-- **Governed** — driven by clear semantics, metrics and accountability  
-- **AI-Enabled** — augmented by intelligent, context-aware components  
-- **Scalable** — able to span functions, geographies and domains  
-- **Future-Proof** — resilient to change and technology shifts  
-
-This lab exists to explore, document and refine those architectures.
+👉 [conceptual-frameworks/](conceptual-frameworks/)
 
 ---
 
-## 👤 Author
+### 3) Design Patterns
+Reusable patterns for stability, productivity, visibility, governance, and decision intelligence.
+
+👉 [design-patterns/](design-patterns/)
+
+---
+
+## Design Philosophy (Aedron Standard)
+
+Modern enterprises need more than dashboards — they need **decision operating systems**:
+
+- **Modular** — composable capabilities with clear ownership boundaries  
+- **Governed** — semantic control, KPI integrity, and accountability by design  
+- **AI-Enabled** — intelligence embedded in decision pathways, not layered on top  
+- **Interoperable** — API-first and cross-domain by default  
+- **Future-Proof** — resilient to complexity, scale, and technology shifts  
+
+---
+
+## Suggested Starting Point
+
+If you’re new to the lab:
+
+1) Start with **Architecture Blueprints** → pick your industry blueprint  
+2) Then review **Conceptual Frameworks** → understand the governance and semantics underneath  
+3) Finally, use **Design Patterns** → apply reusable building blocks
+
+---
+
+## Author
 
 **Jorge Enrique Rodríguez Aguilera**  
-Strategic BI Architect · Enterprise Digital Capability Architect · Innovation-Oriented Systems Thinker  
+Strategic BI Architect · Enterprise Digital Capability Architect · Innovation-Oriented Systems Thinker
 
-GitHub: [KikeMarakas90](https://github.com/KikeMarakas90)  
+GitHub: [KikeMarakas90](https://github.com/KikeMarakas90)
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 All content in this lab is **conceptual and high-level**.  
-No internal systems, proprietary frameworks, or sensitive logic from AEDRON or any affiliated initiatives are exposed here.
-
+No internal systems, proprietary implementations, or sensitive logic from AEDRON or any affiliated initiatives are exposed here.
