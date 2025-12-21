@@ -19,7 +19,7 @@ Designed around:
 - **Cloud + Edge hybrid execution** for stability and responsiveness  
 - a **governed KPI Engine** as the enterprise nervous system  
 
-→ `cpg-global-ops-operating-system.md`
+→ [View blueprint](cpg-global-ops-operating-system.html)
 
 ---
 
@@ -31,7 +31,12 @@ Focused on:
 - stability-first performance management  
 - closed-loop decision execution across operations  
 
-→ `insurance-operational-intelligence-stack.md`
+→ [View blueprint](insurance-operational-intelligence-stack.html)
+
+### **Digital R&D Architecture Mesh**  
+  Federated, AI-enabled decision architecture for multi-lab, multi-portfolio R&D environments.
+
+  → [View blueprint](digital-r&d-architecture-mesh.html)
 
 ---
 
@@ -51,7 +56,10 @@ These principles ensure each architecture remains coherent, scalable, and decisi
 
 ## Roadmap
 
-Upcoming blueprints:
+This architecture library evolves intentionally.
 
-- **Digital R&D Architecture Mesh (v1)**  
-  Federated, AI-enabled decision architecture for multi-lab, multi-portfolio R&D environments.
+Future blueprints will extend these operating principles into adjacent domains where
+decision integrity, governance, and execution at scale are critical.
+
+Execution patterns, implementation playbooks, and delivery models are developed privately,
+based on organizational context and risk profile.

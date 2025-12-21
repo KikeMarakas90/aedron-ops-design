@@ -207,4 +207,9 @@ The IOIS blueprint provides:
 
 It serves as **v1** of a scalable architecture that can be tailored to any insurer, region, or product line.
 
+---
+
 [⬅ Back to Architecture Blueprints](../architecture-blueprints/)
+
+*This blueprint is part of the AEDRON Architecture Series.  
+Public version — implementation details intentionally abstracted.*

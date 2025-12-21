@@ -3,6 +3,8 @@ layout: default
 title: CPG Global Ops Operating System (v1)
 ---
 
+← [Back to Architecture Blueprints](../architecture-blueprints.md)
+
 # CPG Global Ops Operating System (v1)
 
 ## 1. Executive Premise
@@ -1206,3 +1208,10 @@ But by architecting a decision-driven operating system that senses, decides, exe
 **CPG is an Operating System.**
 
 This blueprint defines the architecture required to build it.
+
+---
+
+← [Back to Architecture Blueprints](../architecture-blueprints.md)
+
+*This blueprint is part of the AEDRON Architecture Series.  
+Public version — implementation details intentionally abstracted.*
