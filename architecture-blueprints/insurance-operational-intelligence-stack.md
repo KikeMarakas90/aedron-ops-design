@@ -3,6 +3,8 @@ layout: default
 title: Insurance Operational Intelligence Stack (v1)
 ---
 
+← [Back to Architecture Blueprints](index.md)
+
 # Insurance Operational Intelligence Stack (v1)
 
 **A decision-ready enterprise architecture for claims, provider payments, and operational governance in insurance environments.**
@@ -209,7 +211,7 @@ It serves as **v1** of a scalable architecture that can be tailored to any insur
 
 ---
 
-[⬅ Back to Architecture Blueprints](../architecture-blueprints/)
+← [Back to Architecture Blueprints](index.md)
 
 *This blueprint is part of the AEDRON Architecture Series.  
 Public version — implementation details intentionally abstracted.*

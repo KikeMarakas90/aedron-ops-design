@@ -52,7 +52,7 @@ Strategic enterprise architectures engineered for next-generation operations.
 **Currently available:**
 - **CPG Global Ops Operating System (v1)** — modular operating architecture for multi-country manufacturing and supply operations  
 - **Insurance Operational Intelligence Stack (v1)** — decision-ready architecture for claims, provider payments, and operational governance  
-
+- **Digital R&D Architecture Mesh** — Federated, AI-enabled decision architecture for multi-lab, multi-portfolio R&D environments
 ---
 
 ### 2) Conceptual Frameworks

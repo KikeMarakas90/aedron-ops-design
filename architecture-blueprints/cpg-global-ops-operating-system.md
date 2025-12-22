@@ -3,7 +3,7 @@ layout: default
 title: CPG Global Ops Operating System (v1)
 ---
 
-← [Back to Architecture Blueprints](../architecture-blueprints.md)
+← [Back to Architecture Blueprints](index.md)
 
 # CPG Global Ops Operating System (v1)
 
@@ -1211,7 +1211,7 @@ This blueprint defines the architecture required to build it.
 
 ---
 
-← [Back to Architecture Blueprints](../architecture-blueprints.md)
+← [Back to Architecture Blueprints](index.md)
 
 *This blueprint is part of the AEDRON Architecture Series.  
 Public version — implementation details intentionally abstracted.*

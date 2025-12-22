@@ -3,7 +3,7 @@ layout: default
 title: Digital R&D Architecture Mesh
 ---
 
-← [Back to Architecture Blueprints](../architecture-blueprints.md)
+← [Back to Architecture Blueprints](index.md)
 
 # Digital R&D Architecture Mesh 
 ## An Operating System for Applied Innovation at Scale
@@ -204,7 +204,7 @@ Execution begins where theory ends.
 
 ---
 
-← [Back to Architecture Blueprints](../architecture-blueprints.md)
+← [Back to Architecture Blueprints](index.md)
 
 *This blueprint is part of the AEDRON Architecture Series.  
 Public version — implementation details intentionally abstracted.*
