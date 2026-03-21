@@ -43,6 +43,16 @@ Where intelligence, governance, and execution are architected as a unified syste
 
 ---
 
+## Core Concept
+
+This lab is grounded in a single structural premise:
+
+Organizational coherence defines whether systems can operate under complexity.
+
+→ [Explore the model](conceptual-frameworks/organizational-coherence/)
+
+---
+
 ## What This Lab Covers
 
 AEDRON operates at the intersection of:
