@@ -1,5 +1,15 @@
 # Architecture Blueprints
 
+## From Fragmentation to Coherent Operating Systems
+
+These blueprints are not independent solutions.
+
+They are applications of a single structural model:
+
+→ [Organizational Coherence](../conceptual-frameworks/organizational-coherence/)
+
+---
+
 Strategic enterprise architectures engineered for next-generation operations across CPG, Insurance, Manufacturing, Pharma, and R&D ecosystems.
 
 These blueprints are **not data stack diagrams**.  
@@ -33,33 +43,53 @@ Focused on:
 
 → [View blueprint](insurance-operational-intelligence-stack.html)
 
-### **Digital R&D Architecture Mesh**  
-  Federated, AI-enabled decision architecture for multi-lab, multi-portfolio R&D environments.
+---
 
-  → [View blueprint](digital-r&d-architecture-mesh.html)
+### **Digital R&D Architecture Mesh**  
+Federated, AI-enabled decision architecture for multi-lab, multi-portfolio R&D environments.
+
+→ [View blueprint](digital-r&d-architecture-mesh.html)
 
 ---
 
 ## Design Principles (Aedron Standard)
 
-Every blueprint in this library is engineered according to five non-negotiable principles:
+These principles are not best practices.
+
+They are **constraints required to maintain coherence under complexity**.
+
+Every blueprint in this library is engineered accordingly:
 
 - **Modular** — composable capabilities with clear ownership boundaries  
 - **Governed** — semantic control, KPI integrity, and accountability by design  
-- **AI-Enabled** — decision intelligence embedded in execution pathways (RAG / LLM-inspired)  
+- **AI-Native** — decision intelligence embedded in execution pathways  
 - **Interoperable** — API-first integration across domains and platforms  
-- **Future-Proof** — resilient to complexity, scale, regulation, and technology shifts  
+- **Resilient** — designed for scale, volatility, and regulatory environments  
 
-These principles ensure each architecture remains coherent, scalable, and decision-ready over time.
+---
+
+## Structural Role of Blueprints
+
+Blueprints are not isolated architectures.
+
+They represent:
+
+- how coherence is instantiated in specific domains  
+- how decision systems operate under real constraints  
+- how strategy, KPIs, and execution align structurally  
+
+They are **system-level expressions of the coherence model**.
 
 ---
 
 ## Roadmap
 
-This architecture library evolves intentionally.
+This library evolves by extending the same structural model into new domains.
 
-Future blueprints will extend these operating principles into adjacent domains where
-decision integrity, governance, and execution at scale are critical.
+Future blueprints will address environments where:
 
-Execution patterns, implementation playbooks, and delivery models are developed privately,
-based on organizational context and risk profile.
+- decision complexity is high  
+- governance is critical  
+- execution must remain stable under pressure  
+
+Implementation and delivery models remain context-dependent and are developed separately.

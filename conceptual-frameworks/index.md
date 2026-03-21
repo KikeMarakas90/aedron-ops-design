@@ -1,19 +1,58 @@
 # Conceptual Frameworks
 
-Core strategic frameworks that define how modern, complex enterprises design clarity, interoperability and decision intelligence at scale.
+## From Coherence to Formal Structures
 
-This section consolidates the foundational models behind next-gen operating architectures, including:
+This section defines the **structural logic** behind all architectures in the lab.
 
-- **Semantic Layer Governance Model (v1)** — enterprise-wide blueprint for metric integrity, lineage, ownership and decision accountability.
-- **Operational Intelligence Reference Model (v1)** — integrating productivity, stability, talent analytics and execution readiness.
-- **AI-Augmented Decision Fabric (v1)** — conceptual pattern for embedding LLM/RAG capabilities into business-critical processes.
-- **Value Steering Framework (v1)** — cross-domain governance and financial alignment for analytics, AI and digital investments.
+All frameworks are derived from a single foundational model:
 
-These frameworks enable organizations to:
-- Establish **semantic consistency** across domains.
-- Govern **KPIs, metrics and decision rights** with precision.
-- Integrate **AI-native capabilities** responsibly and effectively.
-- Ensure **global reproducibility** for multi-country operations.
-- Scale decision-making with a **future-ready operating model**.
+→ [Organizational Coherence](organizational-coherence/)
 
-(Frameworks coming soon.)
+---
+
+Core strategic frameworks that define how modern, complex enterprises design clarity, interoperability, and decision intelligence at scale.
+
+These are not isolated models.
+
+They are **formal structures that ensure decision systems remain coherent under complexity**.
+
+---
+
+## Frameworks in Development
+
+- **Semantic Layer Governance Model (v1)**  
+  Enterprise-wide structure for metric integrity, lineage, ownership, and decision accountability.
+
+- **Operational Intelligence Reference Model (v1)**  
+  Integrating productivity, stability, talent analytics, and execution readiness.
+
+- **AI-Augmented Decision Fabric (v1)**  
+  Embedding LLM/RAG capabilities into business-critical decision pathways.
+
+- **Value Steering Framework (v1)**  
+  Cross-domain governance and financial alignment for analytics, AI, and digital investments.
+
+---
+
+## What These Frameworks Enable
+
+These frameworks are designed to:
+
+- establish **semantic consistency** across domains  
+- govern **KPIs, metrics, and decision rights**  
+- integrate **AI-native capabilities into execution systems**  
+- ensure **cross-domain interoperability**  
+- maintain **coherence at scale under complexity**  
+
+---
+
+## Structural Role in the Lab
+
+- **Organizational Coherence** → core model  
+- **Conceptual Frameworks** → formal structures  
+- **Architecture Blueprints** → system implementations  
+- **Design Patterns** → execution mechanisms  
+
+---
+
+(Frameworks evolving.)
