@@ -6,7 +6,7 @@ This section defines the **structural logic** behind all architectures in the la
 
 All frameworks are derived from a single foundational model:
 
-→ [Organizational Coherence](organizational-coherence/)
+→ [Organizational Coherence](/aedron-ops-design/conceptual-frameworks/organizational-coherence.html)
 
 ---
 

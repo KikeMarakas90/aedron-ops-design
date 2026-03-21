@@ -49,7 +49,7 @@ This lab is grounded in a single structural premise:
 
 Organizational coherence defines whether systems can operate under complexity.
 
-→ [Explore the model](conceptual-frameworks/organizational-coherence/)
+→ [Organizational Coherence](/aedron-ops-design/conceptual-frameworks/organizational-coherence.html)
 
 ---
 

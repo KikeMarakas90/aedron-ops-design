@@ -4,7 +4,7 @@
 
 This section contains visual representations derived from the core structural model:
 
-→ [Organizational Coherence](../conceptual-frameworks/organizational-coherence/)
+→ [Organizational Coherence](/aedron-ops-design/conceptual-frameworks/organizational-coherence.html)
 
 These assets translate conceptual frameworks and architectures into **interpretable system views**.
 

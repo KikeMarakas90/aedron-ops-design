@@ -4,7 +4,7 @@
 
 This section contains applied architectures derived from a single structural model:
 
-→ [Organizational Coherence](../conceptual-frameworks/organizational-coherence/)
+→ [Organizational Coherence](/aedron-ops-design/conceptual-frameworks/organizational-coherence.html)
 
 Each blueprint represents a system designed to maintain **consistent decision logic under complexity**.
 

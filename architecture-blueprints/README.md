@@ -6,7 +6,7 @@ These blueprints are not independent solutions.
 
 They are applications of a single structural model:
 
-→ [Organizational Coherence](../conceptual-frameworks/organizational-coherence/)
+→ [Organizational Coherence](../conceptual-frameworks/organizational-coherence.html)
 
 ---
 

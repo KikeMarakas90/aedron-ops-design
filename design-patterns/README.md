@@ -8,7 +8,7 @@ They are structural mechanisms designed to prevent the breakdown of decision sys
 
 All patterns in this section are derived from:
 
-→ [Organizational Coherence](../conceptual-frameworks/organizational-coherence/)
+→ [Organizational Coherence](/aedron-ops-design/conceptual-frameworks/organizational-coherence.html)
 
 ---
 

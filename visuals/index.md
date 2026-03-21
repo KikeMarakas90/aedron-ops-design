@@ -4,7 +4,7 @@
 
 This section contains visual representations derived from a single structural model:
 
-→ [Organizational Coherence](../conceptual-frameworks/organizational-coherence/)
+→ [Organizational Coherence](/aedron-ops-design/conceptual-frameworks/organizational-coherence.html)
 
 These visuals translate complex architectures and decision systems into **interpretable, aligned system views**.
 

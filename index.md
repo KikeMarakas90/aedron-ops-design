@@ -46,6 +46,14 @@ This lab focuses on redesigning the missing layer:
 
 ---
 
+## Core Concept
+
+This lab is grounded in a single structural premise:
+
+→ [Organizational Coherence](conceptual-frameworks/organizational-coherence.html)
+
+---
+
 ## What is this lab?
 
 AEDRON Ops Design Lab is a public architecture workspace focused on **organizational coherence by design**.

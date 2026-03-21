@@ -4,7 +4,7 @@
 
 This section contains reusable patterns derived from a single structural model:
 
-→ [Organizational Coherence](../conceptual-frameworks/organizational-coherence/)
+→ [Organizational Coherence](/aedron-ops-design/conceptual-frameworks/organizational-coherence.html)
 
 Each pattern defines how systems maintain **consistent decision logic under complexity**.
 
