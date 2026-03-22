@@ -48,9 +48,17 @@ This lab focuses on redesigning the missing layer:
 
 ## Core Concept
 
-This lab is grounded in a single structural premise:
+This lab is grounded in a single structural model:
 
 → [Organizational Coherence](conceptual-frameworks/organizational-coherence.html)
+
+---
+
+## System View
+
+Start with the structural representation of the model:
+
+→ [Coherence System Map](visuals/coherence-system-map.html)
 
 ---
 
@@ -126,13 +134,12 @@ Aedron systems are:
 
 ---
 
-## Suggested Starting Point
+## System Navigation
 
-If you’re new:
-
-1. Start with **Architecture Blueprints**  
-2. Continue with **Conceptual Frameworks**  
-3. Apply through **Design Patterns**
+→ **Start here:** Coherence System Map  
+→ **Then:** Conceptual Frameworks  
+→ **Then:** Architecture Blueprints  
+→ **Finally:** Design Patterns
 
 ---
 
@@ -147,9 +154,8 @@ GitHub: [KikeMarakas90](https://github.com/KikeMarakas90)
 
 ## Closing
 
-Intelligence does not scale without coherence.  
-
-And coherence does not emerge without architecture.
+> Intelligence does not scale without coherence.  
+> And coherence does not emerge without architecture.
 
 ---
 
