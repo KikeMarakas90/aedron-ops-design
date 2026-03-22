@@ -17,7 +17,7 @@ This map represents the **core architecture required to sustain coherence under 
 
 ## System Overview
 
-```mermaid
+<div class="mermaid">
 flowchart TD
 
 A[Strategy Layer<br>Objectives · Priorities · Constraints]
@@ -47,7 +47,8 @@ F --- D
 G --- B
 G --- C
 G --- D
-```
+</div>
+
 ---
 
 ## How to Read This Model
