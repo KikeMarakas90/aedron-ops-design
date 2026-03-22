@@ -18,6 +18,17 @@ They are **structural representations of how coherence is achieved across system
 
 ---
 
+## Core System Map
+
+This is the primary visual entry point to the lab.
+
+- **Coherence System Map (v1)**  
+  Structural representation of decision systems, KPI layers, governance, and execution flows.
+
+  → [View](coherence-system-map.html)
+
+---
+
 ## Visual Library
 
 - **Enterprise Architecture Maps**  
